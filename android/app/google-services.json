@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065866800278",
+    "project_id": "tabungan-ku-2c445",
+    "storage_bucket": "tabungan-ku-2c445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065866800278:android:ee5309ec70d987372766b7",
+        "android_client_info": {
+          "package_name": "com.example.project_tabungan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw391p3PdSONosa_uy_2ggVwFYS1X7974"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
